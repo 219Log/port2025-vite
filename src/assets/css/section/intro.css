@@ -117,6 +117,7 @@
 .intro_lines.bottom .line:nth-child(7){
     height: 1px;
 }
+
 @media (max-width: 800px){
     .intro__inner {
         justify-content: center;
